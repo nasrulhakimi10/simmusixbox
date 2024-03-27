@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sims Music Box
+* source:	https://sketchfab.com/3d-models/sims-music-box-f5ae1c9a12934951b037904bd49e485d
+* author:	albedooo (https://sketchfab.com/albedooo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sims Music Box" (https://sketchfab.com/3d-models/sims-music-box-f5ae1c9a12934951b037904bd49e485d) by albedooo (https://sketchfab.com/albedooo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
